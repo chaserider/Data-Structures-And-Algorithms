@@ -1,0 +1,79 @@
+﻿  md5.cpp
+C:\Users\29463\AppData\Local\Temp\BNZ.67222e4b1fecb5d\md5.cpp(114,35): warning C4267: 'argument': conversion from 'size_t' to 'MD5::size_type', possible loss of data
+C:\Users\29463\AppData\Local\Temp\BNZ.67222e4b1fecb5d\md5.cpp(342,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+
+Project Performance Summary:
+      595 ms  D:\dev\数据结构与算法\一致性哈希算法\一致性哈希算法\一致性哈希算法.vcxproj   1 calls
+                595 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  GetReferencedVCProjectsInfo                1 calls
+        0 ms  CopyFileToFolders                          1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  _PrepareForBuild                           1 calls
+        0 ms  _PrepareForReferenceResolution             1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  IgnoreJavaScriptOutputAssembly             1 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  _AddOutputPathToGlobalPropertiesToRemove   1 calls
+        0 ms  WarnCompileDuplicatedFilename              1 calls
+        0 ms  ResolveProjectReferences                   1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  AddExternalIncludDirectoriesToPaths        1 calls
+        0 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  _CheckWindowsSDKInstalled                  1 calls
+        0 ms  MakeDirsForCl                              1 calls
+        0 ms  FixupCLCompileOptions                      1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  FindReferenceAssembliesForReferences       1 calls
+        1 ms  SetTelemetryEnvironmentVariables           1 calls
+        1 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        1 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        1 ms  PrepareForBuild                            1 calls
+        1 ms  CustomBuild                                1 calls
+        1 ms  ComputeStdModulesCompileInputs             1 calls
+        1 ms  SetCABuildNativeEnvironmentVariables       1 calls
+        1 ms  InitializeBuildStatus                      1 calls
+        1 ms  ResolveAssemblyReferences                  1 calls
+      585 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  MSBuild                                    1 calls
+        0 ms  SetRidAgnosticValueForProjects             1 calls
+        0 ms  MakeDir                                    5 calls
+        0 ms  CheckVCToolsetVersion                      1 calls
+        0 ms  VCMessage                                  1 calls
+        0 ms  ReadLinesFromFile                          1 calls
+        0 ms  WriteLinesToFile                           1 calls
+        0 ms  Touch                                      1 calls
+        1 ms  SetEnv                                    11 calls
+        1 ms  Message                                    2 calls
+        1 ms  GetOutOfDateItems                          3 calls
+      583 ms  CL                                         1 calls

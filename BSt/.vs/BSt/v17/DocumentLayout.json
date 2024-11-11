@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\BSt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82766954-AD49-4563-AEF4-3C038964D8ED}|BSt\\BSt.vcxproj|D:\\dev\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\BSt\\BSt\\BSt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82766954-AD49-4563-AEF4-3C038964D8ED}|BSt\\BSt.vcxproj|solutionrelative:BSt\\BSt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BSt.cpp",
+              "DocumentMoniker": "D:\\dev\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\BSt\\BSt\\BSt.cpp",
+              "RelativeDocumentMoniker": "BSt\\BSt.cpp",
+              "ToolTip": "D:\\dev\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\BSt\\BSt\\BSt.cpp",
+              "RelativeToolTip": "BSt\\BSt.cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwF0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T13:02:58.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
